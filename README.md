@@ -19,6 +19,6 @@
 # Live Demo
 Live Demo on the Scratch Org: https://hosted-scratch.herokuapp.com/launch?template=git@github.com:Praneethreddy24/LWCTHOPU.git
 # Preview
-![image](https://user-images.githubusercontent.com/121805332/211006290-5fa1cc50-cb27-400a-b5f9-fa8747a31f15.png)
+![image](https://user-images.githubusercontent.com/121805332/211719928-b98d1a8d-5b9f-4b18-b190-f9f6706684a7.png)
 
 
