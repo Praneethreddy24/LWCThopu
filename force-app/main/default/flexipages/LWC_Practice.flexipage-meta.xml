@@ -14,13 +14,19 @@
         <itemInstances>
             <componentInstance>
                 <componentName>usersList</componentName>
-                <identifier>c_usersList</identifier>
+                <identifier>c_usersList2</identifier>
             </componentInstance>
         </itemInstances>
         <name>region2</name>
         <type>Region</type>
     </flexiPageRegions>
     <flexiPageRegions>
+        <itemInstances>
+            <componentInstance>
+                <componentName>fishinthetank</componentName>
+                <identifier>c_fishinthetank</identifier>
+            </componentInstance>
+        </itemInstances>
         <name>region3</name>
         <type>Region</type>
     </flexiPageRegions>

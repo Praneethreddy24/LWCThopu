@@ -1,0 +1,46 @@
+
+   
+    .field {
+        margin-bottom: 2em;
+    }
+    .label {
+        display: block;
+        margin-bottom: 0.5em;
+    }
+    .control {
+        display: block;
+    }
+    .input, .textarea {
+        width: 100%;
+        padding: 0.5em;
+        font-size: 1em;
+        border: 1px solid #ddd;
+        border-radius: 5px;
+    }
+    .select {
+        width: 100%;
+        padding: 0.5em;
+        font-size: 1em;
+        border: 1px solid #ddd;
+        border-radius: 5px;
+        -webkit-appearance: none;
+        -moz-appearance: none;
+        appearance: none;
+        background-color: #fff;
+    }
+    .button {
+        padding: 0.5em 1em;
+        border-radius: 5px;
+    }
+    .is-success {
+        background-color: green;
+        color: #fff;
+    }
+    .is-light {
+        background-color: #ddd;
+        color: #333;
+    }
+    .is-grouped {
+        display: flex;
+        justify-content: center;
+    }
