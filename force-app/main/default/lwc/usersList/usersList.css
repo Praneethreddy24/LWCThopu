@@ -1,0 +1,33 @@
+lightning-card {
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 2px 2px 2px rgb(128, 168, 105);
+    background: linear-gradient(to right, #66b14d, #3fb7bd);
+    color:rgb(85, 156, 123);
+}
+
+lightning-card[title] {
+    font-size: 24px;
+    font-weight: bold;
+    padding: 20px;
+    text-align:center;
+    text-shadow: 2px 2px 2px rgb(113, 165, 194);
+}
+
+c-git-users {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    padding: 10px;
+    background: #5b7562;
+    border-radius:10px;
+}
+
+c-git-users div {
+    margin-right: 10px;
+    margin-bottom: 10px;
+    padding:10px;
+    background: rgb(55, 123, 169);
+    border-radius:10px;
+    box-shadow: 2px 2px 2px rgb(113, 20, 20);
+}

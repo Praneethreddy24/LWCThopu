@@ -1,0 +1,10 @@
+.para {
+    font-size: 14px;
+    letter-spacing: 8px;
+    text-transform: uppercase;
+    padding-left: 10px;
+    color: #69a9da;
+    font-weight: 600;
+    background-color: transparent;
+animation-fill-mode: backwards;    
+}

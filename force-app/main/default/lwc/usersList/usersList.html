@@ -1,4 +1,11 @@
 <template>
-    Number of Users
+  List of User's
     
+  <template if:true={retrivedusers}>
+  <template for:each={retrivedusers} for:item="retrivedusers">
+    <div key={retrivedusers.id}>
+<c-git-users retrived-user={retrivedusers}></c-git-users>
+    </div>
+  </template>
+  </template>
 </template>

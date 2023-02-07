@@ -1,3 +1,13 @@
-.Okay{
-    padding: 1rem;
+.multi-bg-example {
+    background-color: #8c6262;
+    padding: 20px;
+}
+
+.search {
+    width: 50%;
+    margin-bottom: 20px;
+}
+
+.slds-m-left_x-small {
+    margin-left: 10px;
 }
