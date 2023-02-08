@@ -1,44 +1,44 @@
 
    
     .field {
-        margin-bottom: 2em;
+        margin-bottom: 2rem;
     }
     .label {
         display: block;
-        margin-bottom: 0.5em;
+        margin-bottom: 0.5rem;
     }
     .control {
         display: block;
     }
     .input, .textarea {
         width: 100%;
-        padding: 0.5em;
-        font-size: 1em;
-        border: 1px solid #ddd;
+        padding: 0.5rem;
+        font-size: 1rem;
+        border: 1px solid #613131;
         border-radius: 5px;
     }
     .select {
         width: 100%;
-        padding: 0.5em;
-        font-size: 1em;
-        border: 1px solid #ddd;
+        padding: 0.5rem;
+        font-size: 1rem;
+        border: 1px solid #e15858;
         border-radius: 5px;
         -webkit-appearance: none;
         -moz-appearance: none;
         appearance: none;
-        background-color: #fff;
+        background-color: #d61818;
     }
     .button {
-        padding: 0.5em 1em;
+        padding: 0.5rem 1rem;
         border-radius: 5px;
     }
     .is-success {
         background-color: green;
-        color: #fff;
+        color: #31ad1e;
     }
     .is-light {
-        background-color: #ddd;
-        color: #333;
+        background-color: #ad0202;
+        color: #442626;
     }
     .is-grouped {
         display: flex;
