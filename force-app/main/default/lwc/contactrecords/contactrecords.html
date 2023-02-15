@@ -1,0 +1,10 @@
+<template>
+    <lightning-button label="Show Contact Ids" onclick={handleShowContactIds}></lightning-button>
+  
+    <template for:each={contacts} for:item="contact">
+      <div key={contact.Id}>
+        <p>{contact.Name}</p>
+        <p>{contact.Email}</p>
+      </div>
+    </template>
+  </template>

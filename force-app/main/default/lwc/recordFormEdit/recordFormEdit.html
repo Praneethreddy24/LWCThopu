@@ -1,0 +1,14 @@
+<template>
+<lightning-card title="Edit Account">
+    <lightning-record-edit-form
+    record-id={recordId} object-api-name="Account" onsubmit={handleSubmit} >
+
+     <lightning-input-field field-name="Name" variant="label-hidden"  value={account.Name}></lightning-input-field>
+
+    <lightning-input-field field-name="Industry" variant="label-hidden" value={account.Industry}></lightning-input-field>
+    
+    <lightning-button  type="submit" label="Save"  variant="brand"   class="slds-m-top_medium"></lightning-button>
+
+    </lightning-record-edit-form>
+</lightning-card>
+</template>
